@@ -1,0 +1,5 @@
+D:\桌面\DBHelper\DBHelper\bin\Debug\DBHelper.dll
+D:\桌面\DBHelper\DBHelper\bin\Debug\DBHelper.pdb
+D:\桌面\DBHelper\DBHelper\bin\Debug\LiteOn.Corp.IT.EA.CMCC.dll
+D:\桌面\DBHelper\DBHelper\obj\Debug\DBHelper.dll
+D:\桌面\DBHelper\DBHelper\obj\Debug\DBHelper.pdb

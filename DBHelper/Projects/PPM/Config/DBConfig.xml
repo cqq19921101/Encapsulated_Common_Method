@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<DB>
+<!--Test DB -->
+<TestDBServer>Server</TestDBServer>
+<TestDBName>Test</TestDBName>
+</DB>
